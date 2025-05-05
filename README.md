@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Dedicated Full Stack Developer and Cybersecurity Enthusiast based in Indonesia</h3>
 
-<img align="center" src="https://profile-counter.glitch.me/mauladanahabibie/count.svg?" alt="Visitor Counter" height="20" />
+<img align="center" src="https://profile-counter.glitch.me/mauladanahabibi/count.svg?" alt="Visitor Counter" height="20" />
 <div align="left">
   <img src="https://i.pinimg.com/736x/db/f8/63/dbf863b544bb92b0e07abf613594eed8.jpg" width="300" height="250" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,24 +38,13 @@
     <img src="https://skillicons.dev/icons?i=git,flutter,docker,tailwind,laravel,linkedin,postman,discord,vite,py,php,js&perline=6" />
 </p>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauladanahabibie/mauladanahabibie/output-pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauladanahabibie/mauladanahabibie/output-pacman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mauladanahabibie/mauladanahabibie/output-pacman/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/mauladanahabibie/mauladanahabibie/output-snake/snake.svg" alt="Snake animation" />
-
 ###
 <h3 align="center">Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauladanahabibie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mauladanahabibi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauladanahabibie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauladanahabibie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauladanahabibi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauladanahabibi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
